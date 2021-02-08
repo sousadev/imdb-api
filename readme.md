@@ -1,3 +1,4 @@
-# Guia de Consulta - API IMDb (Underline)
+# Guia de Consulta - API IMDb 
 
+## Italo Sousa
 =============
